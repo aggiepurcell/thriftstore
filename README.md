@@ -1,0 +1,2 @@
+# thriftstore
+przyładowy projekt
